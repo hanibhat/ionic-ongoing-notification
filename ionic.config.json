@@ -1,5 +1,7 @@
 {
   "name": "ongoingNotification",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
